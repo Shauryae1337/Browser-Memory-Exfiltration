@@ -2,6 +2,7 @@
 
 This repository demonstrates a proof of concept for exploiting **CWE-316**: Cleartext Storage of Sensitive Information in Memory. It showcases how an attacker can extract sensitive data stored in browser memory and provides mitigation techniques to secure sensitive data in memory.
 
+Read the article : https://medium.com/@shaurya1337/browsers-secret-diary-memory-dumps-unveiled-44419d94fade
 ---
 
 ## Repository Overview
